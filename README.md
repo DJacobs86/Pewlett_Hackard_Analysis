@@ -4,8 +4,10 @@ I'm offically calling this "Project Menotship", and you'll see why. The purpose 
 
 ## Results
 - Due to promotions some employees have had multiple positions through their careers. The retirement_titles shows the retiring employees and their advancments shown below
+![This is an image](https://github.com/DJacobs86/Pewlett_Hackard_Analysis/blob/main/retirement_titles.png)
 - The unique_tiles talbe shows us the most recent title fof employees at retirement age.
 - Majority of employees who are at retirement age have a "senior" title, which is shown in the retirement_titles table.
+![This is an image](https://github.com/DJacobs86/Pewlett_Hackard_Analysis/blob/main/retirement_titles.png)
 - Finally, the reason we are all here, mentorship eligibilty, "Project Mentorship". This final part of the prject shows that most of the employees have senior titles!
 
 ## Wrap it up!
