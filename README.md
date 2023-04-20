@@ -1,4 +1,5 @@
-# Pewlett_Hackard_Analysis
+# Employee Database Analysis with SQL
+A classwork example of building and running queries against a SQL database to retrieve (fake) employee information.
 ## Overview 
 This is a classwork example in which "Pewlett Hackard" is a large and well established company. They were interested in identifying who will be qualified for their forthcoming retirement packages. After learning that they have thousands of loyal employees who will qualify for retirement in the near future, they asked to have information about which positions will need to be filled based on how many employees will qualify for their retirement packages. Department titles, job titles, and employee info has been added to the database and queries have been run to request the needed information.
 
